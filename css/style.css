@@ -1,0 +1,9 @@
+a {
+    text-decoration: none;
+    color:#000;
+}
+div a .bg-light:hover {
+    color: #000;
+    background-color: violet !important;
+        background-color: #b6ccd3 !important;
+}
