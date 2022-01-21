@@ -412,7 +412,7 @@ for ($i = 0; $i < $total; $i++) {
     }
     //echo $i ." ". $peixe2[1] . "<br>";
 
-    print_r( new Peixe($peixe->getNome(), $peixe->getRaridade(), $peixe->getPeso(), $peixe->getImagem()) );
+    //print_r( new Peixe($peixe->getNome(), $peixe->getRaridade(), $peixe->getPeso(), $peixe->getImagem()) );
 }
 
 // percentual de peixes
